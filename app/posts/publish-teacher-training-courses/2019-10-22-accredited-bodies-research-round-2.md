@@ -1,7 +1,7 @@
 ---
-title: Accredited Bodies Research Round 2 - Reporting
-description: Continued research with Accredited Bodies to determine reporting needs
-date: 2020-01-31
+title: Accredited bodies research round 2 - reporting
+description: Continued research with Accredited bodies to determine reporting needs
+date: 2019-10-22
 related:
   items:
   - text: Lookback sessions
@@ -15,11 +15,11 @@ Round 2 was a continuation of the research started in [Accredited Bodies Researc
 
 ### Student Information Systems
 
-ABs have a student record information system that syncs automatically with UCAS.
+Accredited bodies have a student record information system that syncs automatically with UCAS.
 
 [Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_124)
 
-### The Systems Sync with UCAS
+### The systems sync with UCAS
 
 There is an automatic sync that happens between their system and UCAS. Applications that come via UCAS get linked to their student record system.
 
@@ -27,20 +27,20 @@ There is an automatic sync that happens between their system and UCAS. Applicati
 
 ### Changes aren't automatically synced
 
-The participants needed to know about any new courses so that they can update the courses on their system 
+The participants needed to know about any new courses so that they can update the courses on their system.
 
 [Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_36)
 
 ### Stuck in between UCAS and SITS
 
-There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the Accredited Bodies system.
+There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the Accredited bodies system.
 
 [Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b29d61f1c_0_18)
 [Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_16)
 
 ### A need for notifications
 
-The notification needs vary for different Accredited Bodies
+The notification needs vary for different Accredited bodies
 
 [Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_44)
 [Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g75687fc910_0_53)
@@ -69,10 +69,9 @@ There is a need to see what courses have been created and published.
 
 ## Research Summary
 
-* Need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system 
+* Accredited bodies need to know about courses for marketing materials and purposes as well as ensuring courses are set up correctly on their system 
 * There is a student information system which pulls applications and pushes data from UCAS. This is an automatic process.
-* Need to know of any changes to courses or new courses. Applications get stuck in staging area which is when the application from UCAS can’t match up with offerings in the Accredited Bodies SITS system.
-* Need an alerts / notification design that tells Accredited Bodies of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
-* Need to know about courses with the location status. This is because courses are multi-faceted.
-* Need to be able to compare allocations with Accredited Body reports to ensure courses are set up correctly.
+* Accredited bodies need to know of any changes to courses or new courses. Applications get stuck in staging area which is when the application from UCAS can’t match up with offerings in the Accredited Bodies SITS system.
+* Accredited bodies need an alert/notification design that tells them of changes so that they know when things have changed so that systems can be updated as soon as possible to avoid candidate transit change issues.
+* There is a need to be able to compare allocations with Accredited body reports to ensure courses are set up correctly.
 
