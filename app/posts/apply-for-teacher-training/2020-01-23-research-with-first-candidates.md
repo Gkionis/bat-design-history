@@ -6,8 +6,20 @@ related:
   items:
   - text: Lookback sessions
     href: https://lookback.io/dfe-digital/live-service-post-application-research
+  - text: Research playback
+    href: https://docs.google.com/presentation/d/1PwdjudhTgATRWMQtR1I0taTcbbyKosKlgaTCqABbsAA/
 ---
 We asked each user who submitted an application if they’d be happy to take part in research. With those who were, we conducted interviews. [They used the service as launched](/apply-for-teacher-training/apply-launch).
+
+## Key issues
+
+- Problems signing in
+- Confusion around our eligibility questions
+- Candidates wanted to apply again after submitting their first application
+- ‘Apply for teacher training’ was seen as the only place to apply, rather than this service, this is good in the long run but troublesome during dual running
+- Qualifications were sparsely completed, "I didn’t put in [all my qualifications] because I assumed it was only the highest degree needed"
+- Trouble entering self employment into work history
+- Trouble describing working patterns for part time jobs ([we added this feature](/apply-for-teacher-training/part-time-working-hours))
 
 ## Candidate 1
 
@@ -42,6 +54,22 @@ We asked each user who submitted an application if they’d be happy to take par
 
 [Research audio on Lookback](https://lookback.io/watch/HRJ8gsRadXg9TYa7j)
 
+* A career changer who lived abroad and was looking to move back to the UK and start their PGCE course.
+* Chose the provider based on good reputation and as it was their first choice. Only  applied through DfE Apply, and didn't know UCAS existed.
+* She wanted to be able to submit her 1st choice course, and submit further applications at a later date once she had done more research into further providers "I wanted to finish the one application and then go onto the next later"
+* She liked the fact it gave her an option to edit - "I have a bad habit of not proof reading properly, so even after I've submitted it, it still gives me the option to edit within seven days, so that was great. I changed some of the wording of how I came across"
+* She only thought she needed to put in the most relevant qualifications, so her relevant degree, relevant GCSEs etc. She did not put in the full breadth of her qualifications - "I didn't want to put in any other qualifications because obviously the degree is the highest [qualification] so that's the only one that should matter"
+* She had done a lot of contractual work for short periods of time and found it a bit repetitive putting in all the contracts in the work history.
+* Found the personal statement guidance very useful and used it to tweak some content she already had prepared.
+
 ## Candidate 4
 
 [Research audio on Lookback](https://lookback.io/watch/qbtExmpgKBnQANaXc)
+
+* Applied to PE through UCAS and DfE. Started on UCAS first, then did the DfE one too after changing from Primary to Secondary. Was intrigued by the new system.
+* "It was well set out, easy to understand, nothing was confusing or nothing I didn't understand. I feel like no one would struggle. It's better step by step rather than the one long list of questions on UCAS"
+* Expected a normal password and email, "It's just easier to have your own password and log in and out. A couple of times when I was filling in, I had a break and did something else, and it's a bit annoying having to go through my emails again"
+* He favourited the Apply link in the browser
+* This user didn't put in any other qualifications at all, "It said GCSEs and degree you could put in, it didn't specify any other requirements or qualifications to put in, so I didn't"
+* Good feedback on personal statement "The starter bullet points were good and made sure I didn't miss anything out, I used them lots"
+* Needed a space to write that he "worked weekday evenings and less than 30 hours a week" and it was "quite important" to fill this in.
