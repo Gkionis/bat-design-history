@@ -1,6 +1,6 @@
 ---
-title: Accredited bodies research round 2 - reporting
-description: Continued research with Accredited bodies to determine reporting needs
+title: Accredited bodies research - Reporting round 2
+description: Continued research with accredited bodies to determine reporting needs
 date: 2019-10-22
 related:
   items:
@@ -9,7 +9,7 @@ related:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g75687fc910_0_119
 ---
-Round 2 was a continuation of the research started in [Accredited Bodies Research Round 1](link) where we hoped to gain further insights into the needs of Accredited Bodies around reporting.
+Round 2 was a continuation of the research started in [Accredited Bodies Research Round 1](https://bat-design-history.netlify.com/publish-teacher-training-courses/accredited-bodies-research-round-1) where we hoped to gain further insights into the needs of accredited bodies around reporting.
 
 ## Findings
 
@@ -17,55 +17,55 @@ Round 2 was a continuation of the research started in [Accredited Bodies Researc
 
 Accredited bodies have a student record information system that syncs automatically with UCAS.
 
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_124)
+[Lookback highlight](https://lookback.io/watch/5393vNS6529xg4igS)
+[Lookback highlight](https://lookback.io/watch/Nsj3HvTnPiZnRN5Zz)
 
 ### The systems sync with UCAS
 
 There is an automatic sync that happens between their system and UCAS. Applications that come via UCAS get linked to their student record system.
 
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_22)
+[Lookback highlight](https://lookback.io/watch/ozWtDtBffhvKoS7xM)
 
 ### Changes aren't automatically synced
 
 The participants needed to know about any new courses so that they can update the courses on their system.
 
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_36)
+[Research highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_36)
 
 ### Stuck in between UCAS and SITS
 
 There is an area where candidates get ‘lost’ if courses on UCAS don’t align with the Accredited bodies system.
 
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b29d61f1c_0_18)
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_16)
+[Lookback highlight](https://lookback.io/watch/Rm39LacvcTgXqfeZm)
+[Lookback highlight](https://lookback.io/watch/tZfZGw9T5DshrkgxB)
 
 ### A need for notifications
 
 The notification needs vary for different Accredited bodies
 
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_44)
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g75687fc910_0_53)
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_117)
+[Lookback highlight](https://lookback.io/watch/mB5M4s3nkDD7yTgxB)
+[Lookback highlight](https://lookback.io/watch/Z3H5Gb4jg9B5Qn8yW)
+[Lookback highlight](https://lookback.io/watch/oLt8PPBwJ29DNjhch)
 
 ### A need to see what’s been published
 
 There is a need to see what courses have been created and published.
 
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_61)
+[Lookback highlight](https://lookback.io/watch/wKTSDi4kkuLERJqjS)
 
 ## Prototype feedback
 
 ### Main Page
 
-[Research highlights](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g70bcc29089_0_19)
+[Research highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g70bcc29089_0_19)
 
 ### Organisations Listings Page
 
-[Research highlights](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_76)
+[Research highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_76)
 
 ### CSV Download Link
 
-[Research highlights](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g6b4896b14d_1_72)
-[Lookback highlight](https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g75687fc910_0_60)
+[Lookback highlight](https://lookback.io/watch/Z3H5Gb4jg9B5Qn8yW)
 
 ## Research Summary
 
