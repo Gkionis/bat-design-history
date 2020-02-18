@@ -9,7 +9,7 @@ related:
   - text: Research playback
     href: https://docs.google.com/presentation/d/1ChxmFgCA3MHBxtcuDwtkiUeNdYBXs2prmeqa9jtQuk8/edit#slide=id.g75687fc910_0_119
 ---
-Round 2 was a continuation of the research started in [Accredited Bodies Research Round 1](https://bat-design-history.netlify.com/publish-teacher-training-courses/accredited-bodies-research-round-1) where we hoped to gain further insights into the needs of accredited bodies around reporting.
+Round 2 was a continuation of the research started in [Accredited Bodies Research Round 1](/publish-teacher-training-courses/accredited-bodies-research-round-1) where we hoped to gain further insights into the needs of accredited bodies around reporting.
 
 ## Findings
 
